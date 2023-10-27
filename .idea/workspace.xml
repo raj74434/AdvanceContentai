@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fe70c2d-db8a-4504-beb7-22fc693d606a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Frontend/minigpt/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/minigpt/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/minigpt/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/minigpt/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/minigpt/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/minigpt/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/minigpt/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/minigpt/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/minigpt/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/minigpt/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/minigpt/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/minigpt/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/minigpt/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/minigpt/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/minigpt/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/minigpt/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/minigpt/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/minigpt/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2XIBhpo5Ma4OTFY0gl9EcM7mPD2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/masai_Intern/weekthree/AdvanceContentai",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fe70c2d-db8a-4504-beb7-22fc693d606a" name="Changes" comment="" />
+      <created>1698306835765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698306835765</updated>
+      <workItem from="1698306838358" duration="1650000" />
+      <workItem from="1698317421109" duration="2480000" />
+      <workItem from="1698351348014" duration="1280000" />
+      <workItem from="1698384193132" duration="7095000" />
+      <workItem from="1698420317592" duration="2050000" />
+      <workItem from="1698427063389" duration="5630000" />
+      <workItem from="1698442902931" duration="3957000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
